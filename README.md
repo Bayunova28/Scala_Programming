@@ -1,2 +1,2 @@
 # Scala Practice
-This repository contains about scala practice for operation maths and programs
+This repository contains about [scala practice](https://scastie.scala-lang.org/) for operation maths and programs
